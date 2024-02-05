@@ -26,5 +26,4 @@ To play the Dice Game, follow these steps:
 2. Two players take turns rolling the dice by clicking the "Refresh" button.
 3. After each roll, the outcome will be displayed, and the winner will be determined.
 
-
-https://muntajir11.github.io/dice_game/
+### Hosted here 👉 https://muntajir11.github.io/dice_game/

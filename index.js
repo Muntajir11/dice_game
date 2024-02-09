@@ -4,6 +4,12 @@ var attri1=document.querySelectorAll("img")[0];
 attri1.setAttribute("src",image1);
 
 
+function restartScript() {
+    window.location.reload();
+  }
+  
+  document.getElementById("restartButton").addEventListener("click", restartScript);
+
 
 
 var randomNmber2=Math.floor(Math.random()*6)+1;

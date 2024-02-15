@@ -23,7 +23,7 @@ The Dice Game Website is built using the following technologies:
 To play the Dice Game, follow these steps:
 
 1. Open the Dice Game Website in your web browser.
-2. Two players take turns rolling the dice by clicking the "Refresh" button.
+2. Two players take turns rolling the dice by clicking the "Roll Again" button.
 3. After each roll, the outcome will be displayed, and the winner will be determined.
 
 ### Hosted here 👉 https://muntajir11.github.io/dice_game/
